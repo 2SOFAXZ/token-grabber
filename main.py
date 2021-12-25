@@ -1,12 +1,3 @@
-import requests
-import os 
-import shutil 
-import sqlite3 
-import zipfile 
-import json 
-import base64 
-import psutil 
-import pyautogui
 
 from win32crypt import CryptUnprotectData
 from re import findall
